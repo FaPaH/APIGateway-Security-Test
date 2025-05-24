@@ -38,3 +38,4 @@ eureka:
 
 jwt:
   secret: c3VwZXJfc2VjcmV0X2tleV9tdXN0X2JlXzMyX2J5dGVzIQ==
+  expiration: 900000  # 15 minutes in milliseconds
